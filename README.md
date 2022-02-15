@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou o Fábio, no momento estudando PHP/Frameworks, e também a procura de uma oportunidade de emprego desenvolvedor Jr.
+Sou o Fábio, no momento estudando PHP/Frameworks, e também a procura de uma oportunidade de emprego como Desenvolvedor Jr.
 
 <!--
 **fabinhoizzy/fabinhoizzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
