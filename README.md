@@ -23,6 +23,3 @@
 - 📫 Pode me mandar um email no fabinhoevil16@hotmail.com.  
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Campeão do jogo das escondidas ";" desde 1958
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabinhoizzy&layout=compact)](https://github.com/fabinhoizzy/github-readme-stats)
