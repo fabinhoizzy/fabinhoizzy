@@ -1,8 +1,6 @@
 
 ### Sou o Fábio, no momento estudando PHP/Frameworks, e também a procura de uma oportunidade de emprego como Desenvolvedor Jr. 🤓
 
-<br>
-
 ### Minhas Redes:
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fabinhoizzy) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiosilvaalves90/)
@@ -16,9 +14,6 @@
 
 ![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabinhoizzy&show_icons=true&theme=radical)
 
-
-<br>
-
 ### Sobre mim:
 - 🔭 No momento à procura de um trabalho como desenvolvedor.  
 - 🌱 Estou aprendendo PHP Laravel/VueJS.
@@ -29,7 +24,5 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Campeão do jogo das escondidas ";" desde 1958
 
-<br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabinhoizzy&layout=compact)](https://github.com/fabinhoizzy/github-readme-stats)
