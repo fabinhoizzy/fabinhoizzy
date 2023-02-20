@@ -1,5 +1,5 @@
 
-### Olá sou o Fábio, no momento estudando PHP/Frameworks, e também a procura de uma oportunidade de emprego como Desenvolvedor Jr. 🤓
+### Olá sou o Fábio, no momento estudando PHP/Frameworks. 🤓
 
 ### Minhas Redes:
 
